@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lanK5
+- 👋 Hi, I’m @lanKabogo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Software related task...
 - 📫 How to reach me +254781998203...
 
 <!---
