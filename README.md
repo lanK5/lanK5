@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lanKabogo.
 - 👀 I’m interested in Software Applications creation.
-- 🌱 I’m currently doing my undergraduate degree in Software Development at KCA.
+- 🌱 I’m did my undergraduate degree in Software Development at KCA.
 - 💞️ I’m looking to collaborate on any Software related task and IT support.
 
 <!---
